@@ -3,3 +3,4 @@
 
 ![Screenshot2](https://github.com/Sani1189/coupon-checking/assets/76781606/9d524ddc-c909-45cd-85ea-3392524eaee1)
 ![Screenshot4](https://github.com/Sani1189/coupon-checking/assets/76781606/413537b5-a362-4852-a9a8-74d773082e37)
+![Screenshot3](https://github.com/Sani1189/coupon-checking/assets/76781606/f7ba8eee-ac22-4d28-9cab-a107396980a7)
